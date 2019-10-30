@@ -2,8 +2,8 @@
   
 his. 1821      //def. his. historia  
 Goal: Idea Traceability.    
-Na zajęciach WPiA zacząłem dziś używać dysku google do tworzenia notatek na zajęciach.  
-Dzięki przemyśleniom z nich, wpadłem na pomysł, żeby iść potem do czytelni SMCBI.  
+Na zajęciach [----] zacząłem dziś używać dysku google do tworzenia notatek na zajęciach.  
+Dzięki przemyśleniom z nich, wpadłem na pomysł, żeby iść potem do czytelni [----].  
 Żeby dokończyć zadania.   
 W dobych warunkach (cisza, ciepło, światło, wypoczęcie, jedzenie, meble, sprzęt, okulary)  
 byłem w stanie uporządkować wreszcie zakładki i zrobić ich migrację pod Chrome.  
@@ -35,7 +35,7 @@ Chcę dodawać linki do notatek na githubie (mogłyby być na dysku google też,
 Ale to jest moje pierwsze konta gihtubowe i jeden z pierwszych opublikowanych projektów, więc wolę tutaj.  
 
 mot. 1904  //def. mot. motywacje  
-Zbieram myśli. Zmiany w życiu, nowe miejsce, nowe studia, powrót do githuba zaczętego w 2017-08.  
+Zbieram myśli. Zmiany w życiu, nowe miejsce, nowe [----], powrót do githuba zaczętego w 2017-08.  
 Zmieniłem nazwę project_diary.md na project_blog.md, ale piszę to samo.  
 Własne myśli dla siebie, zrozumiałe dla siebie. Samotność. Początki. Wielkie sprawy. Szmoncesy.  
 Jak blog to blog. Luźna forma. Nie musi być ściśle techniczny.  

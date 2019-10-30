@@ -49,6 +49,21 @@ U mnie te idee się przenikają. Powieść. Zakładki. Projekt. Rysunki.
 Zamieszczam zakładki w folderze projektu, ale tylko dla ilustracji.  
 
 Pet project. To znaczy że ulubiony, ale może zbyt trudny i ambitny żeby go nawet zacząć.  
-Zobaczymy.  
+Zobaczymy.   
+
+pro. 1918 //def. pro. project  
+Zacząłem używać issues i milestones. Zamiast pisać je tutaj tylko.  
+Tutaj by też można.   
+Project log. Project blog. Project binary log.  
+Ship log. Like ship log. Dziennik pokładowy.   
+Pokładem jest mój laptop. Miejsce gdzie siedzę. Chmura w której przechowuję.   
+Podróż od pomysłu do produktu. Od pomysłu do dzieła które posłuży innym.  
+Nie muszę na nim zarobić pieniędzy. Jak coś jest dobre to ludzie wezmą i tak.  
+Nie robię tego tylko dla zysku. Ani tylko w perspektywie doczesnej całkiem.   
+Dlatego "pet". Dla własnej radości. I może też dla czyjejś.  
+Trzeba mi się nauczyć używać githuba lokalnie. Nie edytować ciągle blogu w przeglądarce i commit za każdym razem.  
+Commit to wystarczy raz dziennie. Tak to robię śmietnik w historii. Ale jeszcze inaczej nie umiem.  
+
+
 
 

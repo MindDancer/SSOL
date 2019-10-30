@@ -87,6 +87,13 @@ Pisząc o sobie, tworzę sobie materiał do analiz i naśladowania.
 Poznaj samego siebie.   
 I to nie pierwszy blog o ssol, jaki piszę.  
 
+sec. pri. 1948 //def. sec. security  //def. pri. privacy  
+Zakładki nie nadają się do publikowania.  
+Są pewne rzeczy w moim życiu, które chcę ukryć, przed niektórymi osobami, a widać by je było z zakładek.  
+Przed google się nie ukryję, ale po co ma cały świat widzieć wszystko co robię?  :)   
+
+
+
 
 
 

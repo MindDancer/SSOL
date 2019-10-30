@@ -6,6 +6,9 @@ notatki konserwacyjne
 4. obok już zaakceptowanych już przeze mnie licencji, wyraźnie i szczególnie tutaj daję prawo dla google do skorzystania z moich danych z zakładek - dla pouczenia - CC BY-SA 2.5 - Tomasz Kwiecień, 191030  
 5. pesel to cyfry pozasystemowe, jakkolwiek logicznie ułożone, dlatego oddzielam od cyfr z nadanym sensem - zresztą chyba wszystkie identyfikatory mają przynajmniej w części sensowne cyfry  
 06. frozen folders, oznaczam gwiazdką  
+
+
+
   
   
   

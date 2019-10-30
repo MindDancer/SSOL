@@ -68,6 +68,19 @@ W tej myśli-wpisie zastosowałem pierwszy raz w tym dokumencie tagowanie wieloa
 Czasem ni się zdarza taka myśl, że nie pasuje do tylko jednej kategorii, nie jest na tylko jeden temat.  
 Czy jest sens starać się unikać takich złączeń/konglomeratów?  
 
+ori. 1931 //def. ori. orientacja  
+Już jest późno. Nie chcę tu za długo siedzieć, bo chcę tu przychodzić codziennie.   
+W pokoju gdzie mieszkam może mi być trudniej pisać. Brak mebli. Inna pozycja.  
+Ale nie powinno się być chciwym. Już nie traz taki byłem.  
+Że jak znajdę dobre warunki to kurczowo się ich łapię i zarywam noc.  
+Poza tym dwie kawy. Muszę uważać.   
+Spróbować dokończyć migrację i iść.  
+Poza tym odbiegam od początkowwego zadania, którym nie był ten projekt.  
+To tylko moszczenie się w nowych warunkach.  
+Ale ile przemyśleń dla porjektu. Ile skojarzeń.  
+Tak jak pokazał mi minecraft: nowe miejsce daje nowe myśli.   
+
+
 
 
 

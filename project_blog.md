@@ -51,7 +51,7 @@ Zamieszczam zakładki w folderze projektu, ale tylko dla ilustracji.
 Pet project. To znaczy że ulubiony, ale może zbyt trudny i ambitny żeby go nawet zacząć.  
 Zobaczymy.   
 
-pro. 1918 //def. pro. project  
+pro. mot. 1918 //def. pro. project  
 Zacząłem używać issues i milestones. Zamiast pisać je tutaj tylko.  
 Tutaj by też można.   
 Project log. Project blog. Project binary log.  
@@ -63,6 +63,11 @@ Nie robię tego tylko dla zysku. Ani tylko w perspektywie doczesnej całkiem.
 Dlatego "pet". Dla własnej radości. I może też dla czyjejś.  
 Trzeba mi się nauczyć używać githuba lokalnie. Nie edytować ciągle blogu w przeglądarce i commit za każdym razem.  
 Commit to wystarczy raz dziennie. Tak to robię śmietnik w historii. Ale jeszcze inaczej nie umiem.  
+
+W tej myśli-wpisie zastosowałem pierwszy raz w tym dokumencie tagowanie wieloatrybutowe.  
+Czasem ni się zdarza taka myśl, że nie pasuje do tylko jednej kategorii, nie jest na tylko jeden temat.  
+Czy jest sens starać się unikać takich złączeń/konglomeratów?  
+
 
 
 

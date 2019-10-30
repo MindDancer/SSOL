@@ -106,6 +106,8 @@ W zasadzie powinno, skoro ma 16gb pamięci, nie?
 
 mil. 2012  
 Weszło. Grzeczne. Chrome się muli, widać etapy uploadu.  
+Do pliku weszłem zakładką, Chrome pamiętało nowe hasło co zmieniłem na desktopie, piszę na smartfonie.  
+Fajnie będzie pisać tak samo na tablecie.  
 
 
 

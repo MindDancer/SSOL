@@ -91,7 +91,19 @@ sec. pri. 1948 //def. sec. security  //def. pri. privacy
 Zakładki nie nadają się do publikowania.  
 Są pewne rzeczy w moim życiu, które chcę ukryć, przed niektórymi osobami, a widać by je było z zakładek.  
 Przed google się nie ukryję, ale po co ma cały świat widzieć wszystko co robię?  :)   
-To jest istotna uwaga co do tego projektu. Własne zakładki to mogą być czasem bardzo wrażliwe dane.   
+To jest istotna uwaga co do tego projektu. Własne zakładki to mogą być czasem bardzo wrażliwe dane. 
+
+mil. 2002  //def. mil. milestone
+Chrome stworzyło folder "Imported" i widać go na pasku i można przeglądać hierarchię podobnie jak pod forefoxem.  
+Znikł mi z chrome folder "mobile bookmarks" i nie mam jak przenieść do niego tego "Imported".   
+Na smarftonie dalej widać tylko starą wersję synchronizacji z chrome na desktopie.  
+Czy Chrome uciągnie taką ilość zakładek? Czy dalej jestem skazany na Firefoxa?  
+A może użyć apki forefoxa do synchronizacji z mobile?  
+Czy jest w ogóle możliwe, żebym miał te swoje 21mb zakładek na smartfonie?  
+I w sumie po co? Czy sam footprint_nauka mi nie wystarczy?  
+Po co się tak rozpraszać? Czy to urządzenie się do tego nadaje?  
+W zasadzie powinno, skoro ma 16gb pamięci, nie?  
+
 
 
 

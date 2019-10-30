@@ -104,7 +104,8 @@ I w sumie po co? Czy sam footprint_nauka mi nie wystarczy?
 Po co się tak rozpraszać? Czy to urządzenie się do tego nadaje?  
 W zasadzie powinno, skoro ma 16gb pamięci, nie?  
 
-
+mil. 2012  
+Weszło. Grzeczne. Chrome się muli, widać etapy uploadu.  
 
 
 

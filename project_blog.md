@@ -41,12 +41,12 @@ Własne myśli dla siebie, zrozumiałe dla siebie. Samotność. Początki. Wielk
 Jak blog to blog. Luźna forma. Nie musi być ściśle techniczny.  
 Poza tym w projekcie o sztucznej inteligencji można i warto pisać o własnym myśleniu,  
 pierwowzorze przecież dla tej sztucznej inteligencji.  
-A kiedy ja to zbuduję?   
+A kiedy ja to zbuduję?     
 
-mot. 1913
-Moje zakładki nie stanowią istoty projektu ssol. Są praktyką niezależną od niego. ssol może na nich bazować.  
-U mnie te idee się przenikają. Powieść. Zakładki. Projekt. Rysunki.  
-Zamieszczam zakładki w folderze projektu, ale tylko dla ilustracji.  
+mot. 1913  
+Moje zakładki nie stanowią istoty projektu ssol. Są praktyką niezależną od niego. ssol może na nich bazować.   
+U mnie te idee się przenikają. Powieść. Zakładki. Projekt. Rysunki.    
+Zamieszczam zakładki w folderze projektu, ale tylko dla ilustracji.    
 
 Pet project. To znaczy że ulubiony, ale może zbyt trudny i ambitny żeby go nawet zacząć.  
 Zobaczymy.   

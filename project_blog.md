@@ -85,6 +85,7 @@ Pisanie o własnych myślach to potem dla mnie materiał do rozważania, jak to 
 Pisząc o sobie, tworzę sobie materiał do analiz i naśladowania.  
 Żeby coś skopiować, trzeba to najpierw zrozumieć. Żeby zrozumieć trzeba poznać.  
 Poznaj samego siebie.   
+I to nie pierwszy blog o ssol, jaki piszę.  
 
 
 

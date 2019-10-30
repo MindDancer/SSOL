@@ -91,6 +91,8 @@ sec. pri. 1948 //def. sec. security  //def. pri. privacy
 Zakładki nie nadają się do publikowania.  
 Są pewne rzeczy w moim życiu, które chcę ukryć, przed niektórymi osobami, a widać by je było z zakładek.  
 Przed google się nie ukryję, ale po co ma cały świat widzieć wszystko co robię?  :)   
+To jest istotna uwaga co do tego projektu. Własne zakładki to mogą być czasem bardzo wrażliwe dane.   
+
 
 
 

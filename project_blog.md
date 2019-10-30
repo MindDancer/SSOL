@@ -35,12 +35,12 @@ Chcę dodawać linki do notatek na githubie (mogłyby być na dysku google też,
 Ale to jest moje pierwsze konta gihtubowe i jeden z pierwszych opublikowanych projektów, więc wolę tutaj.
 
 mot. 1904  //def. mot. motywacje
-Zbieram myśli. Zmiany w życiu, nowe miejsce, nowe studia, powrót do githuba zaczętego w 2017-08.
-Zmieniłem nazwę project_diary.md na project_blog.md, ale piszę to samo.
-Własne myśli dla siebie, zrozumiałe dla siebie. Samotność. Początki. Wielkie sprawy. Szmoncesy.
-Jak blog to blog. Luźna forma. Nie musi być ściśle techniczny.
-Poza tym w projekcie o sztucznej inteligencji można i warto pisać o własnym myśleniu,
-pierwowzorze przecież dla tej sztucznej inteligencji.
-A kiedy ja to zbuduję? 
+Zbieram myśli. Zmiany w życiu, nowe miejsce, nowe studia, powrót do githuba zaczętego w 2017-08.  
+Zmieniłem nazwę project_diary.md na project_blog.md, ale piszę to samo.  
+Własne myśli dla siebie, zrozumiałe dla siebie. Samotność. Początki. Wielkie sprawy. Szmoncesy.  
+Jak blog to blog. Luźna forma. Nie musi być ściśle techniczny.  
+Poza tym w projekcie o sztucznej inteligencji można i warto pisać o własnym myśleniu,  
+pierwowzorze przecież dla tej sztucznej inteligencji.  
+A kiedy ja to zbuduję?   
 
 

@@ -43,4 +43,12 @@ Poza tym w projekcie o sztucznej inteligencji można i warto pisać o własnym m
 pierwowzorze przecież dla tej sztucznej inteligencji.  
 A kiedy ja to zbuduję?   
 
+mot. 1913
+Moje zakładki nie stanowią istoty projektu ssol. Są praktyką niezależną od niego. ssol może na nich bazować.  
+U mnie te idee się przenikają. Powieść. Zakładki. Projekt. Rysunki.  
+Zamieszczam zakładki w folderze projektu, ale tylko dla ilustracji.  
+
+Pet project. To znaczy że ulubiony, ale może zbyt trudny i ambitny żeby go nawet zacząć.  
+Zobaczymy.  
+
 

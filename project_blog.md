@@ -80,6 +80,12 @@ To tylko moszczenie się w nowych warunkach.
 Ale ile przemyśleń dla porjektu. Ile skojarzeń.  
 Tak jak pokazał mi minecraft: nowe miejsce daje nowe myśli.   
 
+sso. 1936 //def. sso. ssol  
+Pisanie o własnych myślach to potem dla mnie materiał do rozważania, jak to zapsymulować, zaprogramować.  
+Pisząc o sobie, tworzę sobie materiał do analiz i naśladowania.  
+Żeby coś skopiować, trzeba to najpierw zrozumieć. Żeby zrozumieć trzeba poznać.  
+Poznaj samego siebie.   
+
 
 
 

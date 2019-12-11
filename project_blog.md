@@ -111,8 +111,36 @@ Fajnie będzie pisać tak samo na tablecie.
 
 191211
 
-org. 1754
-Chrome ma lepiej zorganizowane zakładki. Pomyślałem o pluginie do Chrome także.
+org. 1754  
+Chrome ma lepiej zorganizowane zakładki. Pomyślałem o pluginie do Chrome także.  
+Programiści mają pliki prywatne związane z projektem, na dysku.
+Praca, rozwój, drobne zlecenia.
+To na razie jest używanie githuba jako magazynu danych, a nie kodu.
+Mnie zależy na chmurowości tego, dlatego tu piszę.
+Rozważania i rozważania, to lepiej by było pisać prywatnie. Po co komuś głowę zawracać.
+To jest tylko gadanie. Na github powinno się comitować to co działa, etap działający.
+Ten plik trzeba schować. 
+
+his. 1801
+Etapy projektu ssol:
+etap 1
+- wykład z baz danych, książka o sieciach neuronowych, książka o metodach myślenia
+- rozważania o materii-życiu-duchu, myśleniu bez słów, woli  
+etap 2
+- książka o cam-brain
+- tekst filozofia
+- pierwszy post na pl.sci.ai
+- blog ssol
+etap 3
+- książka o sieciach neuronowych w C#
+- przedmiot wstęp do sztucznej inteligencji
+- diagramy w kole robotyki
+- ssol w fantastyce, ssol jako projekt na githubie
+- pet project ssol, jedyny pozostawiony na koncie minddancer
+etap 4
+- zajęcia i dysk google, zakładki
+
+
 
 
 

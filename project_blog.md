@@ -109,6 +109,10 @@ Weszło. Grzeczne. Chrome się muli, widać etapy uploadu.
 Do pliku weszłem zakładką, Chrome pamiętało nowe hasło co zmieniłem na desktopie, piszę na smartfonie.  
 Fajnie będzie pisać tak samo na tablecie.  
 
+191211
+
+org. 1754
+Chrome ma lepiej zorganizowane zakładki. Pomyślałem o pluginie do Chrome także.
 
 
 

@@ -26,7 +26,7 @@ Pierwszy krok:
 
 Mam 14930 zakładek mniej więcej w hierarchii, i 16776 zakładek w chronologii.  
 Hierarchia moich zakładek to podgrupa 0,312 ontologii. Być może można zamienić poziom 3 z 4.  
-Według tej hierarchii porządkuję sobie też dane lokalne. 
+Według tej hierarchii porządkuję sobie też dane lokalne.     
 Chcę skopiować zakładki z chronologii do hierarchii, automatycznie.  
 Hierarchia jako zbiór treningowy, chronologia jako testowy.  
 Widmo numenowe strony, nie wiem jak reprezentowane, jako dane trenujące sieci, nie wiem jakie.  

@@ -12,7 +12,7 @@ W fazie rozważań. Brak wyznaczonych terminów.
 a backendem chmura prywatna, prywatny serwer albo nie wiem co tam może współpracować z przeglądarką.   
 Docelowo mogłoby być zminimalizowane i dystrybuowane darmowo, jako plugin tworzący lokalnego asystenta.  
 Metoda klasyfikacji stron może rzucić światło na jakieś inne rzeczy.  
-Jakaś funkcja która danemu rozkładowi przyporządkowuje skalar. 
+Jakaś funkcja która danemu rozkładowi przyporządkowuje skalar.      
 Zarówno funkcja analityczna jak i sieć. Kluczem jest sensowność porządku numenów, pojęć numerowanych.  
 
 To jest zastosowanie praktyczne, potrzebne mi, na razie nie rozważam nic konkretnego więcej.  

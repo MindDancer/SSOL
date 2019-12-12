@@ -14,6 +14,7 @@ Chcę skopiować zakładki z chronologii do hierarchii, automatycznie.
 Hierarachia jako zbiór treningowy, chronologia jako testowy.  
 Widmo numenowe strony, nie wiem jak reprezentowane, jako dane trenujące sieci, nie wiem jakie.  
 Powinien istnieć związek między widmem numenowym a numenem w hierarchii.  
+Widmo numenowe po samym tekście.  
 Zakładki są prywatne, nie udostępniam ich.  
 Chcę żeby frontendem był plugin do przeglądarki, chrome albo firefox,   
 a backendem chmura prywatna, prywatny serwer albo nie wiem co tam może współpracować z przeglądarką.   

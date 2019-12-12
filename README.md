@@ -13,7 +13,7 @@ Pierwszy krok:
 
 Mam 14930 zakładek mniej więcej w hierarchii, i 16776 zakładek w chronologii.  
 Chcę skopiować zakładki z chronologii do hierarchii, automatycznie.  
-Hierachia jako zbiór treningowy, chronologia jako testowy.  
+Hierarchia jako zbiór treningowy, chronologia jako testowy.  
 Widmo numenowe strony, nie wiem jak reprezentowane, jako dane trenujące sieci, nie wiem jakie.  
 Powinien istnieć związek między widmem numenowym a numenem w hierarchii.  
 Widmo numenowe po samym tekście.  

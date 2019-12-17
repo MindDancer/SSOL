@@ -9,7 +9,6 @@ Projekt bardzo przyszłościowy, niekomercyjny, hobbystyczny, jednoosobowy.
 W fazie rozważań. Brak wyznaczonych terminów.  
 
 Pierwszy krok:  
-
 Mam 14000 zakładek mniej więcej w hierarchii, i 16000 zakładek w chronologii.    
 Hierarchia moich zakładek to podgrupa 0,312 ontologii.  
 Chcę skopiować zakładki z chronologii do hierarchii, automatycznie.     

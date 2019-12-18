@@ -30,11 +30,17 @@ Ciekawie byłoby definiować inne. Chodzi o ogólną metodę ich towrzenia i uż
 
 191218
 
-Chronologia ma różne fazy organizacyjne widoczne. Klastorowanie tematyczne.  
+Chronologia ma różne fazy organizacyjne widoczne. Klastrowanie tematyczne.  
 Ogólnie powinno się działać na kopiach.  
 Majaczy mi się coś jakby wiele widoków. Kostki danych.  
-Te uwagi są do schowania. Piszę na razie tutaj, bo na tym komputerze nie mam lokalnie plików projektu.  
-Można by je trzymać w google drive. To nad czym się pracuje.  
+Te uwagi są do schowania. Piszę na razie tutaj, bo na tym komputerze nie mam lokalnie plików projektu.    
+Można by je trzymać w google drive. To nad czym się pracuje.    
+
+Chodzi o wyplątanie tematów ze śladu. Zachowanie zarówno sekwencji, dzielonej na okresy czasu i okresy uznaniowe.   
+Jak wyodrębnienie wątków tematycznych. Coś jak wyniki wyszukiwania w zakładkach, ale pojawiające się automatycznie.  
+Klastrowanie stron o podobnym widmie numenowym? Kolejność numenów istotna ze względu na optymalizację kształtu widma?  
+Skoro można klasyfikować to można i klastrować, operacje na tych samych zbiorach.  
+
 
 
 

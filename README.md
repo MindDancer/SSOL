@@ -9,9 +9,10 @@ Wtedy powstała nazwa ssol, jest ślad w usenecie.
 Pomysł potem powoli rozwijany. Inspiracja Kołem Robotyki UJ w 2012 roku.     
 Obecna postać repozytorium wyklarowała się w 2019 roku.   
 
-Wstępna koncepcja:  
+Wstępna koncepcja, sformułowana około 2013 roku:  
 http://minddancer2.cba.pl/grafika/antropologia_ssol.png  
 http://minddancer2.cba.pl/grafika/ontologia_ssol.png    
+
 Projekt bardzo przyszłościowy, niekomercyjny, hobbystyczny, jednoosobowy.    
 W fazie rozważań. Brak wyznaczonych terminów.  
 

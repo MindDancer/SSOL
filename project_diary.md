@@ -1,3 +1,6 @@
+project_diary to są najluźniejsze rozważania projektowe, najdalsze plany.  
+Pisane dla siebie, chronologiczne repozytorium własnych pomysłów co do projektu.  
+
 191211
 
 Pierwszy krok:  

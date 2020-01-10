@@ -30,6 +30,7 @@ od którego chcę się zacząć naukę uczenia maszynowego.
 Tu jest przyporządkowane widzenie komputerowe.  
 
 W ramach modułu woli:  
-Wyróżniłem etapy technologiczne w nauce robotyki:  
-mindstorms, arduino, pcb, industrial  
-Tu są przyporządkowane materiały z hackerspace-ów  
+Wyróżniłem etapy technologiczne w nauce robotyki:   
+mindstorms, arduino, pcb, industrial   
+Tu są przyporządkowane materiały z hackerspace-ów   
+W pierwszej konfiguracji zastosuję ev3 z serwerem.   

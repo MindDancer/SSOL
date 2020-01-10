@@ -47,17 +47,18 @@ Skoro można klasyfikować to można i klastrować, operacje na tych samych zbio
 
 200110
 
-Dalsze uporządkowanie zakładek. Archiwizacja zmian w folderze projektu ssol.  
+Podsumowania zyciowe. Dalsze uporządkowanie zakładek. 
+Linux. Archiwizacja zmian zakładek w folderze projektu ssol.  
 
 Chciałem znaczniki dla folderów i wymyśliłem te nazwy     
 (pierwszy szkic ujęcia idei, rozszerzenia pojęć, zapewne mało trafny):    
 
-memoria sapientia voluntas  
-concreto familarus ratio intellectus regento creatorus   
-(celowo takie końcówki, uogólniona idea kształtu płci była trochę pomocna)   
+memoria sapientia voluntas    
+concreto familarus ratio intellectus regento creatorus[/maternitas/Szekina?]  
+(celowo takie końcówki, uogólniona idea kształtu płci była trochę pomocna)     
 
 mem sap vol  
-con fam rat int reg cre  
+con fam rat int reg cre    (znaczniki)
 
 mem - bookmarks  
 sap - gmum  

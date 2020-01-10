@@ -68,7 +68,8 @@ mem - bookmarks (big data)
 sap - gmum (machine learning)   
 vol - ev3 (robotics)   
 Od razu realizm fizyczny, od najprostszej technologii vol, tak jak się uczyły zwierzęta.    
-Etapy technologiczne vol: lego mindstorms, moduły i wtyczki, płytki i elementy, roboty komercyjne, ...     
+Etapy technologiczne vol: lego mindstorms, moduły i wtyczki, płytki i elementy, roboty komercyjne, ...  
+Sekcje robota: zasilanie napęd sterowanie  
 
 Nie wiem czy to pisać w readme, i czy utajnić ten plik.     
 To są wszystko hipotetyczne skojarzenia, mgliste zarysy, magia neologizmów, pierwsze kroki.    

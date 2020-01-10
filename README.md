@@ -3,10 +3,11 @@ ssol - semantyczny symulator osoby ludzkiej
 Sztuczna inteligencja tworzona z założeniem prawd wiary chrześcijańskiej.   
 
 Idea zaczęta w 1993 roku, pod wpływem wykładu o sieciach neuronowych.   
-Potem rozwijana filozoficznie, wyklarowana w 2001 roku,  
-pod wpływem książki Bullera "Sztuczny mózg to już nie fantazja".  
-Potem powoli rozwijana, inspiracja Kołem Robotyki UJ w 2012 roku.  
-Obecna postać repozytorium wyklarowała się w 2019 roku.  
+Potem rozwijana filozoficznie. Wyklarowana w 2001 roku,    
+pod wpływem książki Bullera "Sztuczny mózg to już nie fantazja".   
+Wtedy powstała nazwa ssol, jest ślad w usenecie.  
+Pomysł potem powoli rozwijany. Inspiracja Kołem Robotyki UJ w 2012 roku.     
+Obecna postać repozytorium wyklarowała się w 2019 roku.   
 
 Wstępna koncepcja:  
 http://minddancer2.cba.pl/grafika/antropologia_ssol.png  

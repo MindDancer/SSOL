@@ -62,13 +62,14 @@ vol - ev3
 first version (pierwsza kompletna całościowa konfiguracja)  
 
 [wyklarował mi się]  Drugi krok, zarys pierwszej konfiguracji.   
-Nie wiem na ile trafne przypisania.
-Na razie to mi służy jako porządek w folderze.
-mem - bookmarks (big data)  
-sap - gmum (machine learning)  
-vol - ev3 (robotics)  
-Od razu realizm fizyczny, od najprostszej technologii vol, tak jak się uczyły zwierzęta.  
-Etapy technologiczne vol: lego mindstorms, moduły i wtyczki, płytki i elementy, roboty komercyjne, ...   
+Nie wiem na ile trafne przypisania.  
+Na razie to mi służy jako porządek w folderze.  
+mem - bookmarks (big data)    
+sap - gmum (machine learning)   
+vol - ev3 (robotics)   
+Od razu realizm fizyczny, od najprostszej technologii vol, tak jak się uczyły zwierzęta.    
+Etapy technologiczne vol: lego mindstorms, moduły i wtyczki, płytki i elementy, roboty komercyjne, ...     
 
-Nie wiem czy to pisać w readme, i czy utajnić ten plik.  
+Nie wiem czy to pisać w readme, i czy utajnić ten plik.    
+Hipotetyczne skojarzenia, mgliste zarysy.  
 

@@ -1,4 +1,4 @@
-project_diary to są najluźniejsze rozważania projektowe, najdalsze plany.  
+project_diary to są najluźniejsze rozważania projektowe, najdalsze plany, najmniej konkretne myśli.  
 Pisane dla siebie, chronologiczne repozytorium własnych pomysłów co do projektu.  
 
 191211

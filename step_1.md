@@ -41,7 +41,19 @@ Jak wyodrębnienie wątków tematycznych. Coś jak wyniki wyszukiwania w zakład
 Klastrowanie stron o podobnym widmie numenowym? Kolejność numenów istotna ze względu na optymalizację kształtu widma?  
 Skoro można klasyfikować to można i klastrować, operacje na tych samych zbiorach.  
 
+200110
 
+Chciałem znaczniki dla folderów i wymyśliłem te nazwy:  
 
+memoria sapientia voluntas  
+concreto familarus ratio intellectus regento creatorus  
 
+mem sap vol  
+con fam rat int reg cre  
+
+mem - bookmarks  
+sap - gmum  
+vol - ev3  
+
+first version  
 

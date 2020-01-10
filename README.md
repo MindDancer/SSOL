@@ -13,4 +13,9 @@ Mam 14000 zakładek mniej więcej w hierarchii, i 16000 zakładek w chronologii.
 Hierarchia moich zakładek to podgrupa 0,312 ontologii.  
 Chcę skopiować zakładki z chronologii do hierarchii, automatycznie.     
 Żeby się same uporządkowały tematycznie.  
-Hierarchia jako zbiór treningowy, chronologia jako testowy.   
+Hierarchia jako zbiór treningowy, chronologia jako testowy.  
+
+Drugi krok:  
+mem - bookmarks  
+sap - gmum  
+vol - ev3  

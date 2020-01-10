@@ -2,9 +2,6 @@
 ssol - semantyczny symulator osoby ludzkiej   
 Sztuczna inteligencja tworzona z założeniem prawd wiary chrześcijańskiej.   
 
-Pierwsza wzmianka:
-
-
 Wstępna koncepcja:  
 http://minddancer2.cba.pl/grafika/antropologia_ssol.png  
 http://minddancer2.cba.pl/grafika/ontologia_ssol.png    

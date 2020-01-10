@@ -43,10 +43,14 @@ Skoro można klasyfikować to można i klastrować, operacje na tych samych zbio
 
 200110
 
-Chciałem znaczniki dla folderów i wymyśliłem te nazwy:  
+Dalsze uporządkowanie zakładek. Archiwizacja zmian w folderze projektu ssol.  
+
+Chciałem znaczniki dla folderów i wymyśliłem te nazwy     
+(pierwszy szkic ujęcia idei, rozszerzenia pojęć, zapewne mało trafny):    
 
 memoria sapientia voluntas  
-concreto familarus ratio intellectus regento creatorus  
+concreto familarus ratio intellectus regento creatorus   
+(celowo takie końcówki, uogólniona idea kształtu płci była trochę pomocna)   
 
 mem sap vol  
 con fam rat int reg cre  
@@ -55,9 +59,11 @@ mem - bookmarks
 sap - gmum  
 vol - ev3  
 
-first version 
+first version (pierwsza kompletna całościowa konfiguracja)  
 
-Drugi krok, zarys pierwszej konfiguracji.   
+[wyklarował mi się]  Drugi krok, zarys pierwszej konfiguracji.   
+Nie wiem na ile trafne przypisania.
+Na razie to mi służy jako porządek w folderze.
 mem - bookmarks (big data)  
 sap - gmum (machine learning)  
 vol - ev3 (robotics)  

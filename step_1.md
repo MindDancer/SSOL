@@ -71,5 +71,5 @@ Od razu realizm fizyczny, od najprostszej technologii vol, tak jak się uczyły 
 Etapy technologiczne vol: lego mindstorms, moduły i wtyczki, płytki i elementy, roboty komercyjne, ...     
 
 Nie wiem czy to pisać w readme, i czy utajnić ten plik.    
-Hipotetyczne skojarzenia, mgliste zarysy.  
+Hipotetyczne skojarzenia, mgliste zarysy. Nie zamykać się w jednej hipotezie.  
 

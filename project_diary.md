@@ -69,7 +69,7 @@ first version (pierwsza kompletna całościowa konfiguracja)
 Nie wiem na ile trafne przypisania.  
 Na razie to mi służy jako porządek w folderze.  
 mem - bookmarks (big data)    
-sap - gmum (machine learning)   
+sap - gmum (machine learning, computer vision)   
 vol - ev3 (robotics)   
 Od razu realizm fizyczny, od najprostszej technologii vol, tak jak się uczyły zwierzęta.    
 Etapy technologiczne vol: lego mindstorms, moduły i wtyczki, płytki i elementy, roboty komercyjne, ...  

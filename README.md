@@ -4,7 +4,7 @@ Sztuczna inteligencja tworzona z założeniem prawd wiary chrześcijańskiej.
 
 Idea zaczęta w 1993 roku, pod wpływem wykładu o sieciach neuronowych.   
 Potem rozwijana filozoficznie. Wyklarowana w 2001 roku,    
-pod wpływem książki Bullera "Sztuczny mózg to już nie fantazja".   
+pod wpływem książki Andrzeja Bullera "Sztuczny mózg to już nie fantazja".   
 Wtedy powstała nazwa ssol, jest ślad w usenecie.  
 Pomysł potem powoli rozwijany. Inspiracja Kołem Robotyki UJ w 2012 roku.     
 Obecna postać repozytorium wyklarowała się w 2019 roku.   

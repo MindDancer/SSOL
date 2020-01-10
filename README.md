@@ -19,9 +19,7 @@ Chcę skopiować zakładki z chronologii do hierarchii, automatycznie.
 Hierarchia jako zbiór treningowy, chronologia jako testowy.  
 
 200110, drugi krok:  
-Zarysował mi się szkic palety technologicznej.  
-Pierwotna koncepcja z obrazka się rozszerzyła, zmieniła i wyklarowała.  
-Zawęziłem zakres metod sztucznej inteligencji do modelu woli.  
+Szkic palety technologicznej.   
 
 Pierwsza konfiguracja:    
 
@@ -32,9 +30,9 @@ Tu jest przyporządkowana tematyka big data.
 W ramach modułu intelektu:    
 Na razie ściągnąłem tu sobie repozytorium gmum,     
 od którego chcę się zacząć naukę uczenia maszynowego.    
-Tu też jest przyporządkowane widzenie komputerowe.  
+Tu jest przyporządkowane widzenie komputerowe.  
 
 W ramach modułu woli:  
 Wyróżniłem etapy technologiczne w nauce robotyki:  
 mindstorms, arduino, pcb, industrial  
-Tu przyporządkowuję materiały z hackerspace-ów  
+Tu są przyporządkowane materiały z hackerspace-ów  

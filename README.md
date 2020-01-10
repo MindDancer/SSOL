@@ -34,3 +34,5 @@ Wyróżniłem etapy technologiczne w nauce robotyki:
 mindstorms, arduino, pcb, industrial   
 Tu są przyporządkowane materiały z hackerspace-ów i ros.   
 W pierwszej konfiguracji zastosuję ev3 z serwerem.   
+
+Celem ssol jest istnienie, wieczność, służba, bycie skarbem z Ap 21,26  

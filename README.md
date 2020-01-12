@@ -30,17 +30,17 @@ Pierwsza konfiguracja:
 
 W ramach modułu pamięci:  
 Podprojekt zakładek, inne spojrzenie na jego cele.  
-Tu jest przyporządkowana tematyka big data.  
+Tu przyporządkowuję tematykę big data.  
 
 W ramach modułu intelektu:    
 Na razie ściągnąłem tu sobie repozytorium gmum,     
 od którego chcę się zacząć naukę uczenia maszynowego.    
-Tu jest przyporządkowane widzenie komputerowe.  
+Tu przyporządkowuję widzenie komputerowe.  
 
 W ramach modułu woli:  
 Wyróżniłem etapy technologiczne w nauce robotyki:   
 mindstorms, arduino, pcb, industrial   
-Tu są przyporządkowane materiały z hackerspace-ów i ros.   
+Tu przyporządkowuję materiały z hackerspace-ów i ros.   
 W pierwszej konfiguracji zastosuję ev3 z serwerem.   
 
 Celem ssol jest istnienie, wieczność, służba, bycie skarbem z Ap 21,26  

@@ -7,7 +7,7 @@ http://minddancer2.cba.pl/grafika/antropologia_ssol.png
 http://minddancer2.cba.pl/grafika/ontologia_ssol.png    
 Projekt przyszłościowy, niekomercyjny, hobbystyczny.     
 
-191110, podprojekt 1:
+191110, podprojekt 1:   
 Mam 14000 zakładek w hierarchii, i 16000 zakładek w chronologii.    
 Hierarchia moich zakładek to podgrupa 0,312 ontologii.  
 Chcę kopiować zakładki z chronologii do hierarchii, automatycznie.     

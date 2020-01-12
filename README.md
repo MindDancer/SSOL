@@ -14,7 +14,7 @@ Chcę kopiować zakładki z chronologii do hierarchii, automatycznie.
 Żeby się same porządkowały tematycznie.   
 Hierarchia jako zbiór treningowy, chronologia jako testowy.  
 
-200110, paleta technologiczna, szkic konfiguracji 1:   
+200110, paleta technologiczna, szkic konfiguracji 1:    
 Moduł pamięci: podprojekt zakładek, big data    
-Moduł intelektu: gmum, widzenie komputerowe
-Moduł woli: ev3, hackerspace, ros, etapy: mindstorms, arduino, pcb   
+Moduł intelektu: gmum, widzenie komputerowe   
+Moduł woli: ev3, hackerspace, ros, etapy: mindstorms, arduino, pcb    

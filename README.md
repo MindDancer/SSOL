@@ -14,7 +14,7 @@ http://minddancer2.cba.pl/grafika/antropologia_ssol.png
 http://minddancer2.cba.pl/grafika/ontologia_ssol.png    
 
 Projekt bardzo przyszłościowy, niekomercyjny, hobbystyczny, jednoosobowy.    
-W fazie rozważań. Brak wyznaczonych terminów.  
+W fazie rozważań i wstępnych prób. Brak wyznaczonych terminów.  
 
 191110, pierwszy krok:  
 Mam 14000 zakładek mniej więcej w hierarchii, i 16000 zakładek w chronologii.    

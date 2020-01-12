@@ -4,7 +4,7 @@ Sztuczna inteligencja tworzona z założeniem prawd wiary chrześcijańskiej.
 
 Projekt przyszłościowy, niekomercyjny, hobbystyczny.   
 Robiony bezinteresownie, z zamiłowania, bez terminów.   
-W dużym stopniu hipoteza, jaką chciałbym sprawdzić.  
+W dużym stopniu jest to tylko pewna hipoteza którą chciałbym sprawdzić.  
 
 030613, pierwsza wzmianka:  
 https://groups.google.com/forum/#!msg/pl.sci.filozofia/beJLRC_7UcM/U1v6crkGuaYJ

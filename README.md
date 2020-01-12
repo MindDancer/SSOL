@@ -2,45 +2,19 @@
 ssol - semantyczny symulator osoby ludzkiej   
 Sztuczna inteligencja tworzona z założeniem prawd wiary chrześcijańskiej.   
 
-Idea zaczęta w 1993 roku, pod wpływem wykładu o sieciach neuronowych.   
-Potem rozwijana filozoficznie. Wyklarowana w 2001 roku,    
-pod wpływem książki Andrzeja Bullera "Sztuczny mózg to już nie fantazja".   
-Wtedy powstała nazwa ssol, jest ślad w usenecie.  
-Pomysł potem powoli rozwijany. Inspiracja Kołem Robotyki UJ w 2012 roku.     
-Obecna postać repozytorium wyklarowała się w 2019 roku.   
-
-Wstępna koncepcja, sformułowana około 2013 roku:  
+Wstępna koncepcja:  
 http://minddancer2.cba.pl/grafika/antropologia_ssol.png  
 http://minddancer2.cba.pl/grafika/ontologia_ssol.png    
+Projekt przyszłościowy, niekomercyjny, hobbystyczny.     
 
-Projekt bardzo przyszłościowy, niekomercyjny, hobbystyczny, jednoosobowy.    
-W fazie rozważań i wstępnych prób. Brak wyznaczonych terminów.  
-
-191110, pierwszy krok:  
-Mam 14000 zakładek mniej więcej w hierarchii, i 16000 zakładek w chronologii.    
+191110, podprojekt 1:
+Mam 14000 zakładek w hierarchii, i 16000 zakładek w chronologii.    
 Hierarchia moich zakładek to podgrupa 0,312 ontologii.  
-Chcę skopiować zakładki z chronologii do hierarchii, automatycznie.     
-Żeby się same uporządkowały tematycznie.   
+Chcę kopiować zakładki z chronologii do hierarchii, automatycznie.     
+Żeby się same porządkowały tematycznie.   
 Hierarchia jako zbiór treningowy, chronologia jako testowy.  
 
-200110, drugi krok:  
-Szkic palety technologicznej.   
-
-Pierwsza konfiguracja:    
-
-W ramach modułu pamięci:  
-Podprojekt zakładek, inne spojrzenie na jego cele.  
-Tu przyporządkowuję tematykę big data.  
-
-W ramach modułu intelektu:    
-Na razie ściągnąłem tu sobie repozytorium gmum,     
-od którego chcę się zacząć naukę uczenia maszynowego.    
-Tu przyporządkowuję widzenie komputerowe.  
-
-W ramach modułu woli:  
-Wyróżniłem etapy technologiczne w nauce robotyki:   
-mindstorms, arduino, pcb, industrial   
-Tu przyporządkowuję materiały z hackerspace-ów i ros.   
-W pierwszej konfiguracji zastosuję ev3 z serwerem.   
-
-Celem ssol jest istnienie, wieczność, służba, bycie skarbem z Ap 21,26  
+200110, paleta technologiczna, szkic konfiguracji 1:   
+Moduł pamięci: podprojekt zakładek, big data    
+Moduł intelektu: gmum, widzenie komputerowe
+Moduł woli: ev3, hackerspace, ros, etapy: mindstorms, arduino, pcb   

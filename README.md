@@ -10,8 +10,8 @@ W dużym stopniu jest to tylko pewna hipoteza którą chciałbym sprawdzić.
 https://groups.google.com/forum/#!msg/pl.sci.filozofia/beJLRC_7UcM/U1v6crkGuaYJ
 
 131010~, wstępna koncepcja:  
-http://minddancer2.cba.pl/grafika/antropologia_ssol.png  
-http://minddancer2.cba.pl/grafika/ontologia_ssol.png    
+http://minddancer.pl/grafika/antropologia_ssol.png  
+http://minddancer.pl/grafika/ontologia_ssol.png    
 
 191110, podprojekt 1:   
 Mam 14000 zakładek w hierarchii, i 16000 zakładek w chronologii.    

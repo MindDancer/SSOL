@@ -24,3 +24,20 @@ Hierarchia jako zbiór treningowy, chronologia jako testowy.
 Moduł pamięci: podprojekt zakładek; big data    
 Moduł intelektu: gmum; widzenie komputerowe   
 Moduł woli: hackerspace; ros; etapy: mindstorms, arduino, pcb       
+
+190919
+podprojekt 2:
+Pierwszy krok.
+Plugin filtrujący historię witrynami.   
+Dający dwa widoki.  
+Ściśle chronologiczny.  
+i witrynowo-chronologiczny.
+
+Klasyfikowanie stron po widmie numenowym 
+jest zbyt ambitne na początek. 
+Poza tym witryna stanowi 
+świetny wstępny klasyfikator.
+
+Inspirowane "logistic filter" z minecrafta
+i filtrami poczty z gmaila 
+zastosowanymi do kilkunastu mailingów.

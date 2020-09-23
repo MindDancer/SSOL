@@ -41,3 +41,11 @@ Poza tym witryna stanowi
 Inspirowane "logistic filter" z minecrafta
 i filtrami poczty z gmaila 
 zastosowanymi do kilkunastu mailingów.
+
+190923
+Automatyczne dodawanie do zakładek 
+stron z wybranych witryn.
+Youtube. Wybrane kanały youtube.
+Prisonplanet. 
+
+

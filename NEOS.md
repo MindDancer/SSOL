@@ -75,3 +75,10 @@ W architekturze ssol są podstawowe rozróżnienia w modelu: osoby, miejsca, rze
 To są podstawowe pojęcia ssola na pewnym poziomie rozważań.  
 To jest koncepcja zaczerpnięta z myślenia o grach. Pierwszy mój wariant jej:  
 https://drive.google.com/drive/folders/1nhpKYuosChw50OLSWOMF7ePn4iNug9Y-?usp=sharing
+
+Blogowanie.
+
+Tu będę blogować, w duchu jak zacząłem tutaj,  
+a potem w tym dokumencie wypisywać istotne etapy rozważania.  
+https://cowcrusher.blogspot.com/2020/11/ssol-neos.html  
+

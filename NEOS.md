@@ -82,3 +82,10 @@ Tu będę blogować, w duchu jak zacząłem tutaj,
 a potem w tym dokumencie wypisywać istotne etapy rozważania.  
 https://cowcrusher.blogspot.com/2020/11/ssol-neos.html  
 
+
+201202  
+
+Archiwum dokumentacji projektu.  
+https://cowcrusher.blogspot.com/2020/11/ssol-neos.html  
+https://drive.google.com/drive/folders/14Dwu9OOYyW5Tf041Lp7pYwuXrgCL5_s8    
+
